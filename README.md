@@ -11,10 +11,10 @@ If you find an alternative to csb, tell me in an issue.
 
 Cosmic is a web proxy with many features.
 <br>
-It is currently being updated by CosmosTheDEV and Tacogamerman.
+It is currently being updated by CosmosTheDEV.
 
 # How do I contribute?
-Fork the repository, and make a significant change.
+Fork the repository, and make a significant change and create a pull request.
 
 Credit to NotJustMeHere for helping us out with this README.
 
